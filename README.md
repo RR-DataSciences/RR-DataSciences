@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+<link alt="SQL_Dark" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link alt="SQL_Light" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
 
 <!--
 **RR-DataSciences/RR-DataSciences** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
 
 Here are some ideas to get you started:
 
